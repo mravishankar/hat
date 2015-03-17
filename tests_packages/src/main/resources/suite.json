@@ -1,0 +1,39 @@
+[
+  {
+    "suite": {
+      "name": "Suite1",
+      "test": [
+        {
+          "name": "Check_Login",
+          "classes": {
+            "class": [
+              {
+                "name": "com.hgst.hawk.tests_packages.smokeTests.LoginTest"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Check_Actions_Tab",
+          "classes": {
+            "class": [
+              {
+                "name": "com.hgst.hawk.tests_packages.smokeTests.ActionsTabTest"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Check_Logs_Tab",
+          "classes": {
+            "class": [
+              {
+                "name": "com.hgst.hawk.tests_packages.smokeTests.LogsTabTest"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

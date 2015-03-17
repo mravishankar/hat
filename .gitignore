@@ -1,0 +1,12 @@
+build/
+.settings/
+.project
+automation/.settings/
+automation/.project
+automation/.classpath
+automation/target/
+tests_packages/.settings/
+tests_packages/.project
+tests_packages/.classpath
+tests_packages/target/
+tests_packages/test-output/
