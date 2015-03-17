@@ -1,8 +1,8 @@
 [
   {
     "node": "master",
-    "IP": "",
-    "uiuser": "",
-    "uipass": ""
+    "IP": "10.91.39.71",
+    "uiuser": "admin",
+    "uipass": "HGST"
   }
 ]
