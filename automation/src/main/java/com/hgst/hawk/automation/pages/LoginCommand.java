@@ -8,11 +8,11 @@ public class LoginCommand {
 	private CharSequence passWord;	
 
 	public LoginCommand(String username) {
-		this.userName = username;
+		this.userName = (CharSequence) username;
 	}
 
 	public LoginCommand withPassword(String password) {
-		this.passWord = password;
+		this.passWord = (CharSequence) password;
 		return this;
 	}
 
