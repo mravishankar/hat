@@ -13,7 +13,7 @@ public class LoginPage {
 		wait.until(ExpectedConditions.presenceOfElementLocated(By.id("textfield-1014-inputEl")));
 	}
 
-	public static LoginCommand loginAs(String userName) {
-		return new LoginCommand(userName);		
+	public static LoginCommand loginAs(CharSequence charSequence) {
+		return new LoginCommand(charSequence);	
 	}
 }

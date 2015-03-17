@@ -13,7 +13,7 @@ public class Driver {
 	public static String BaseAddress;
 
 	public static String getBaseAddress() {
-		BaseAddress = "http://"+TestbedRuntimeInfo.getMasterIp()+":8000";
+		BaseAddress = "http://"+TestbedRuntimeInfo.getMasterIp().toString()+":8000";
 		return BaseAddress;
 	}
 

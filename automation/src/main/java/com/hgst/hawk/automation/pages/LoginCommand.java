@@ -7,19 +7,19 @@ public class LoginCommand {
 	private CharSequence userName;
 	private CharSequence passWord;	
 
-	public LoginCommand(String username) {
-		this.userName = (CharSequence) username;
+	public LoginCommand(CharSequence username) {
+		this.userName = username;
 	}
 
-	public LoginCommand withPassword(String password) {
-		this.passWord = (CharSequence) password;
+	public LoginCommand withPassword(CharSequence password) {
+		this.passWord = password;
 		return this;
 	}
 
 	public void login() {
-		Driver.instance.findElement(By.id("textfield-1014-inputEl")).sendKeys("admin");
+		Driver.instance.findElement(By.id("textfield-1014-inputEl")).sendKeys(userName);
 		
-		Driver.instance.findElement(By.id("textfield-1015-inputEl")).sendKeys("HGST");
+		Driver.instance.findElement(By.id("textfield-1015-inputEl")).sendKeys(passWord);
 		
 		Driver.instance.findElement(By.id("button-1019-btnInnerEl")).click();
 	}	

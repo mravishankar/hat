@@ -13,10 +13,10 @@ import org.json.simple.parser.ParseException;
 public class TestbedRuntimeInfo {
 	private static final String filePath = "src/main/resources/TestBed.json";
 
-	public static String readMasterNode(String params) {
-		String masterIP = null;
-		String masterUiUser = null;
-		String masterUiPass = null;
+	public static CharSequence readMasterNode(String params) {
+		CharSequence masterIP = null;
+		CharSequence masterUiUser = null;
+		CharSequence masterUiPass = null;
 		//ArrayList<String> masterCommands = new ArrayList<String>();
 		try {
 			FileReader reader = new FileReader(filePath);
@@ -30,9 +30,9 @@ public class TestbedRuntimeInfo {
 				JSONObject nodes = (JSONObject) obj;
 				String node = (String) nodes.get("node");				
 				if (node.matches("master")) {					
-					masterIP = (String) nodes.get("IP");					
-					masterUiUser = (String) nodes.get("uiuser");					
-					masterUiPass = (String) nodes.get("uipass");
+					masterIP = (CharSequence) nodes.get("IP");					
+					masterUiUser = (CharSequence) nodes.get("uiuser");					
+					masterUiPass = (CharSequence) nodes.get("uipass");
 					
 					//JSONArray commands = (JSONArray) nodes.get("commands");					
 					//for(Object cmm : commands)	{
@@ -49,13 +49,13 @@ public class TestbedRuntimeInfo {
 		} catch (NullPointerException ex) {
 			ex.printStackTrace();
 		}
-		if (params == "masterIP") {
+		if (params.contentEquals("masterIP")) {
 			return masterIP;
 		} 
-		else if (params == "masterUiUser") {
+		else if (params.contentEquals("masterUiUser")) {
 			return masterUiUser;
 		} 
-		else if (params == "masterUiPass") {
+		else if (params.contentEquals("masterUiPass")) {
 			return masterUiPass;
 		} 
 		else {
@@ -63,18 +63,18 @@ public class TestbedRuntimeInfo {
 		}
 	}
 
-	public static String getMasterIp() {
-		String IP = readMasterNode("masterIP");
+	public static CharSequence getMasterIp() {
+		CharSequence IP = readMasterNode("masterIP");
 		return IP;
 	}
 
-	public static String getMasterUiUser() {
-		String user = readMasterNode("masterUiUser");
+	public static CharSequence getMasterUiUser() {
+		CharSequence user = readMasterNode("masterUiUser");
 		return user;
 	}
 
-	public static String getMasterUiPass() {
-		String password = readMasterNode("masterUiPass");
+	public static CharSequence getMasterUiPass() {
+		CharSequence password = readMasterNode("masterUiPass");
 		return password;
 	}
 
