@@ -10,7 +10,7 @@ import com.hgst.hawk.automation.selenium.Driver;
 public class ResourcePage {
 
 	public static void goTo() {
-		MenuSelector.select(TopMenu.Resource);
+		MenuSelector.select("Resource");
 		//WebElement rsTab = Driver.instance.findElement(By.id("tab-1030"));
 		//rsTab.click();		
 	}

@@ -9,7 +9,7 @@ import com.hgst.hawk.automation.selenium.Driver;
 
 public class LogoutPage {
 	public static void logout() {
-		MenuSelector.select(TopMenu.Logout);
+		MenuSelector.select("Logout");
 		//WebElement logoutInput = Driver.instance.findElement(By.id("logoutButton-btnIconEl"));
 		//logoutInput.click();
 		

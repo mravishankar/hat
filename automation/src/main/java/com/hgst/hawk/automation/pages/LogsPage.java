@@ -9,7 +9,7 @@ import com.hgst.hawk.automation.selenium.Driver;
 
 public class LogsPage {
 	public static void goTo() {
-		MenuSelector.select(TopMenu.Logs);
+		MenuSelector.select("Logs");
 		//WebElement logsTab = Driver.instance.findElement(By.id("tab-1035"));
 		//logsTab.click();		
 	}

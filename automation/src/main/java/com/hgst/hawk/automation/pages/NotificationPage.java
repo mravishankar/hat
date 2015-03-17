@@ -9,7 +9,7 @@ import com.hgst.hawk.automation.selenium.Driver;
 
 public class NotificationPage {
 	public static void goTo() {
-		MenuSelector.select(TopMenu.Notification);
+		MenuSelector.select("Notification");
 		//WebElement notifyTab = Driver.instance.findElement(By.id("tab-1034"));
 		//notifyTab.click();		
 	}

@@ -3,6 +3,7 @@ package com.hgst.hawk.automation.testlib;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Iterator;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -23,7 +24,9 @@ public class TestbedRuntimeInfo {
 			JSONParser jsonParser = new JSONParser();
 			JSONArray json = (JSONArray) jsonParser.parse(reader);
 
-			for (Object obj : json) {
+			Iterator itr = json.iterator();
+			while(itr.hasNext())	{
+				Object obj = itr.next();
 				JSONObject nodes = (JSONObject) obj;
 				String node = (String) nodes.get("node");				
 				if (node.matches("master")) {					

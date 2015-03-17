@@ -9,7 +9,7 @@ import com.hgst.hawk.automation.selenium.Driver;
 
 public class ActionsPage {
 	public static void goTo() {
-		MenuSelector.select(TopMenu.Actions);
+		MenuSelector.select("Actions");
 		//WebElement actionTab = Driver.instance.findElement(By.id("tab-1031"));
 		//actionTab.click();		
 	}

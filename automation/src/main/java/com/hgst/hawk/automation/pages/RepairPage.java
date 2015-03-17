@@ -9,7 +9,7 @@ import com.hgst.hawk.automation.selenium.Driver;
 
 public class RepairPage {
 	public static void goTo() {
-		MenuSelector.select(TopMenu.Repair);
+		MenuSelector.select("Repair");
 		//WebElement repairTab = Driver.instance.findElement(By.id("tab-1033"));
 		//repairTab.click();		
 	}

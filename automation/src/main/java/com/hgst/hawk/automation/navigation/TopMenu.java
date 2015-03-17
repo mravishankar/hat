@@ -1,12 +1,12 @@
 package com.hgst.hawk.automation.navigation;
 
 public enum TopMenu {
-	Actions,
+	/*Actions,
 	Analytical,
 	Dashboard,
 	Logout,
 	Logs,
 	Notification,
 	Repair,
-	Resource
+	Resource*/
 }

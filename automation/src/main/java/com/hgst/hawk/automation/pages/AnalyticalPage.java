@@ -9,7 +9,7 @@ import com.hgst.hawk.automation.selenium.Driver;
 
 public class AnalyticalPage {
 	public static void goTo() {
-		MenuSelector.select(TopMenu.Analytical);
+		MenuSelector.select("Analytical");
 		//WebElement analyticatTab = Driver.instance.findElement(By.id("tab-1032"));
 		//analyticatTab.click();		
 	}
