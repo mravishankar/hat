@@ -1,8 +1,6 @@
 package com.hgst.hawk.automation.pages;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-
 import com.hgst.hawk.automation.selenium.Driver;
 
 public class LoginCommand {
@@ -19,13 +17,10 @@ public class LoginCommand {
 	}
 
 	public void login() {
-		WebElement loginInput = Driver.instance.findElement(By.id("textfield-1014-inputEl"));
-		loginInput.sendKeys(userName);
+		Driver.instance.findElement(By.id("textfield-1014-inputEl")).sendKeys(userName);
 		
-		WebElement passInput = Driver.instance.findElement(By.id("textfield-1015-inputEl"));
-		passInput.sendKeys(passWord);
+		Driver.instance.findElement(By.id("textfield-1015-inputEl")).sendKeys(passWord);
 		
-		WebElement loginButton = Driver.instance.findElement(By.id("button-1019-btnInnerEl"));
-		loginButton.click();
+		Driver.instance.findElement(By.id("button-1019-btnInnerEl")).click();
 	}	
 }
