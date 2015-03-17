@@ -17,9 +17,9 @@ public class LoginCommand {
 	}
 
 	public void login() {
-		Driver.instance.findElement(By.id("textfield-1014-inputEl")).sendKeys(userName);
+		Driver.instance.findElement(By.id("textfield-1014-inputEl")).sendKeys("admin");
 		
-		Driver.instance.findElement(By.id("textfield-1015-inputEl")).sendKeys(passWord);
+		Driver.instance.findElement(By.id("textfield-1015-inputEl")).sendKeys("HGST");
 		
 		Driver.instance.findElement(By.id("button-1019-btnInnerEl")).click();
 	}	
