@@ -4,8 +4,8 @@ import org.openqa.selenium.By;
 import com.hgst.hawk.automation.selenium.Driver;
 
 public class LoginCommand {
-	private String userName;
-	private String passWord;	
+	private CharSequence userName;
+	private CharSequence passWord;	
 
 	public LoginCommand(String username) {
 		this.userName = username;
