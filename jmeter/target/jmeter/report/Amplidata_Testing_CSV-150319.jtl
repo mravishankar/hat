@@ -1,0 +1,2164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="64234" lt="0" ts="1426778034829" s="false" lb="getAssignedFOCNode" rc="Non HTTP response code: java.net.SocketTimeoutException" rm="Non HTTP response message: Read timed out" tn="Amplidata_Testing_CSV 1-1" dt="text" by="3705">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426778099096" s="false" lb="getAmplistorVersion" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" lt="0" ts="1426778120106" s="false" lb="getApplianceInfo" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426778141118" s="false" lb="getDiskSpeed" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426778162123" s="false" lb="getInstallOption" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426778183129" s="false" lb="getPhysicalDisksCount" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426778204134" s="false" lb="get_s3_configuration" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426778225134" s="false" lb="isInitialized" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426778246150" s="false" lb="listAvailableStorageDaemons" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20996" lt="0" ts="1426778267153" s="false" lb="listAvailableStorageNodes" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426778288153" s="false" lb="exists_application" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426778309157" s="false" lb="find_application" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426778330171" s="false" lb="getAgent_application" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426778351174" s="false" lb="getApplicationTemplate" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426778372177" s="false" lb="getChildApplications" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426778393178" s="false" lb="getNetworkServicePorts" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426778414185" s="false" lb="getNextID" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426778435188" s="false" lb="getObject" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426778456197" s="false" lb="getStatus" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426778477196" s="false" lb="getYAML" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20995" lt="0" ts="1426778498197" s="false" lb="list_application" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426778519197" s="false" lb="listMonitoringInfo" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426778540197" s="false" lb="listNetworkServices" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426778561202" s="false" lb="listStatuses" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21008" lt="0" ts="1426778582213" s="false" lb="read_config" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426778603225" s="false" lb="find_backplane" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426778624231" s="false" lb="getObject_backplane" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426778645234" s="false" lb="getXML_backplane" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426778666242" s="false" lb="getXMLSchema_backplane" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" lt="0" ts="1426778687243" s="false" lb="getYAML_backplane" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426778708253" s="false" lb="list_backplane" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426778729259" s="false" lb="listLans_backplane" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426778750268" s="false" lb="listResourcegroups" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20995" lt="0" ts="1426778771274" s="false" lb="find_cachecluster" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426778792270" s="false" lb="getObject_cachecluster" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426778813274" s="false" lb="get_next_id" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426778834274" s="false" lb="list_cachecluster" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426778855276" s="false" lb="list_applications" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426778876277" s="false" lb="list_disks" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426778897281" s="false" lb="find_cloud" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426778918291" s="false" lb="getObject_cloud" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426778939296" s="false" lb="getYAML_cloud" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426778960304" s="false" lb="list_cloud" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426778981307" s="false" lb="find_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20993" lt="0" ts="1426779002311" s="false" lb="getObject_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426779023307" s="false" lb="getXML_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426779044311" s="false" lb="getXMLSchema_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426779065314" s="false" lb="getYAML_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426779086318" s="false" lb="list_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20994" lt="0" ts="1426779107321" s="false" lb="listApplications_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426779128318" s="false" lb="listDevices_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426779149322" s="false" lb="listLans_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426779170329" s="false" lb="listStatuses_cloudspace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426779191333" s="false" lb="find_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" lt="0" ts="1426779212336" s="false" lb="getObject_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426779233347" s="false" lb="getXML_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426779254347" s="false" lb="getXMLSchema_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21008" lt="0" ts="1426779275351" s="false" lb="getYAML_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426779296362" s="false" lb="list_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426779317362" s="false" lb="listCustomers_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426779338367" s="false" lb="listGroups_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426779359367" s="false" lb="listRoles_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20994" lt="0" ts="1426779380368" s="false" lb="listUsers_cloudusergroup" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426779401365" s="false" lb="find_clouduserrole" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426779422371" s="false" lb="getObject_clouduserrole" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426779443377" s="false" lb="getXML_clouduserrole" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426779464377" s="false" lb="getXMLSchema_clouduserrole" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426779485379" s="false" lb="getYAML_clouduserrole" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" lt="0" ts="1426779506383" s="false" lb="list_clouduserrole" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426779527393" s="false" lb="find_clouduser" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426779548399" s="false" lb="getObject_clouduser" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426779569406" s="false" lb="getYAML_clouduser" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426779590412" s="false" lb="list_clouduser" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426779611412" s="false" lb="listGroups_clouduser" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426779632416" s="false" lb="listJobs_clouduser" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426779653422" s="false" lb="listStatuses_clouduser" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21010" lt="0" ts="1426779674428" s="false" lb="listUserRoles_clouduser" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426779695440" s="false" lb="getAdministrationEnviromnentOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426779716445" s="false" lb="getDSSPolicyManagementOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" lt="0" ts="1426779737449" s="false" lb="getDatacenterManagementOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426779758459" s="false" lb="getDevices_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426779779463" s="false" lb="getDiskDetails_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426779800470" s="false" lb="getDiskManagementOverview_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426779821470" s="false" lb="getErrorConditionInformation_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426779842472" s="false" lb="getLocationManagementOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21008" lt="0" ts="1426779863477" s="false" lb="getLoggingInformation_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426779884487" s="false" lb="getLogicalDisks_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426779905491" s="false" lb="getMachineDetails_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426779926495" s="false" lb="getMachineRootJobsList_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426779947503" s="false" lb="getNamespaceManagementOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426779968523" s="false" lb="getNetworkOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426779989523" s="false" lb="getPhysicalDisks" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426780010526" s="false" lb="getRRDGraph" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426780031530" s="false" lb="getRackManagementOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426780052534" s="false" lb="getRaidDeviceDetails_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426780073534" s="false" lb="getResourceNodesOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426780094536" s="false" lb="getRootErrorConditionsList" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426780115539" s="false" lb="getRootJobsList" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426780136545" s="false" lb="getRootMonitoringJobList" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426780157546" s="false" lb="getRootPolicyJobList" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426780178550" s="false" lb="getStorageNodesOverview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426780199550" s="false" lb="getTreeData" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426780220551" s="false" lb="getUserTreeData_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426780241550" s="false" lb="get_branding_info" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426780262551" s="false" lb="get_cachecluster_details_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426780283557" s="false" lb="get_cacheclusters_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426780304569" s="false" lb="get_certificate_management_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426780325577" s="false" lb="get_decommissioned_disks_details_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21010" lt="0" ts="1426780346580" s="false" lb="get_degraded_disks_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426780367592" s="false" lb="get_disk_partitions_info_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20995" lt="0" ts="1426780388599" s="false" lb="get_disk_status_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426780409595" s="false" lb="get_disks_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426780430600" s="false" lb="get_dsspolicy_details_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20996" lt="0" ts="1426780451601" s="false" lb="get_errorcondition_details_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426780472599" s="false" lb="get_interfacemanagement_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426780493601" s="false" lb="get_metadatastore_detail_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426780514607" s="false" lb="get_metadatastore_status_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" lt="0" ts="1426780535614" s="false" lb="get_metadatastores_info" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426780556623" s="false" lb="get_node_status_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426780577625" s="false" lb="get_url_for_bus_location_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426780598628" s="false" lb="get_userinterface_management_overview" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426780619631" s="false" lb="listApplications_cmc" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20996" lt="0" ts="1426780640636" s="false" lb="listAvailableCommands" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426780661634" s="false" lb="listAvailablePlugins" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426780682637" s="false" lb="listAvailableTreeItems" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426780703643" s="false" lb="find_customer" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426780724650" s="false" lb="getObject_customer" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20995" lt="0" ts="1426780745659" s="false" lb="getYAML_customer" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426780766658" s="false" lb="list_customer" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426780787659" s="false" lb="find_datacenter" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426780808664" s="false" lb="getNextID" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426780829671" s="false" lb="getObject_datacenter" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426780850673" s="false" lb="getYAML_datacenter" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426780871673" s="false" lb="list_datacenter" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426780892677" s="false" lb="listRacks_datacenter" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20993" lt="0" ts="1426780913685" s="false" lb="list_machines_datacenter" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426780934680" s="false" lb="find_device" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20994" lt="0" ts="1426780955687" s="false" lb="getObject_device" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426780976683" s="false" lb="getYAML_device" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426780997682" s="false" lb="list_device" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426781018684" s="false" lb="listPowerPorts_device" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426781039689" s="false" lb="find_disk" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426781060688" s="false" lb="getObject_disk" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426781081688" s="false" lb="getYAML_disk" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426781102689" s="false" lb="get_unpartitioned_space_disk" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426781123694" s="false" lb="list_disk" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426781144699" s="false" lb="listPartitions_disk" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426781165704" s="false" lb="list_raid_members_disk" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426781186716" s="false" lb="exists_dssnamespace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21008" lt="0" ts="1426781207728" s="false" lb="get_details" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426781228739" s="false" lb="list_dssnamespace" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21008" lt="0" ts="1426781249749" s="false" lb="find_dsspolicy" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426781270759" s="false" lb="getObject_dsspolicy" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20995" lt="0" ts="1426781291765" s="false" lb="getYAML_dsspolicy" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426781312762" s="false" lb="get_disksafety_details_dsspolicy" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426781333765" s="false" lb="list_dsspolicy" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426781354764" s="false" lb="find_errorcondition" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426781375767" s="false" lb="getObject_errorcondition" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426781396766" s="false" lb="getYAML_errorcondition" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426781417767" s="false" lb="list_errorcondition" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426781438772" s="false" lb="find_hardwarelayout" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426781459778" s="false" lb="getObject_hardwarelayout" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426781480782" s="false" lb="exists_ipadress" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20995" lt="0" ts="1426781501782" s="false" lb="find_ipaddress" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426781522780" s="false" lb="getObject_ipaddress" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426781543784" s="false" lb="getYAML_ipaddress" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20995" lt="0" ts="1426781564783" s="false" lb="list_ipaddress" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426781585781" s="false" lb="find_job" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426781606786" s="false" lb="findLatestJobs" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426781627790" s="false" lb="getJobTree_job" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426781648801" s="false" lb="getLogInfo_job" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426781669807" s="false" lb="getObject_job" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21008" lt="0" ts="1426781690812" s="false" lb="getYAML?yamljobguid=GUID" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426781711822" s="false" lb="find_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426781732825" s="false" lb="getFirstFreeIpAddress_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426781753825" s="false" lb="getObject_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426781774826" s="false" lb="getYAML_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426781795832" s="false" lb="is_ip_in_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426781816839" s="false" lb="list_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21010" lt="0" ts="1426781837845" s="false" lb="listApplications_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426781858857" s="false" lb="listFreeIPAddresses_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426781879859" s="false" lb="listIPAddresses_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426781900860" s="false" lb="listMachines_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426781921865" s="false" lb="list_routes_lan" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20994" lt="0" ts="1426781942866" s="false" lb="find_location" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426781963862" s="false" lb="getObject_location" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426781984866" s="false" lb="getYAML_location" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20996" lt="0" ts="1426782005866" s="false" lb="list_location" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20998" lt="0" ts="1426782026864" s="false" lb="listDatacenters_location" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426782047864" s="false" lb="getDSSBlockstoreInfo" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426782068865" s="false" lb="getDSSStorageDaemonInfo_machinemonitoring" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20993" lt="0" ts="1426782089870" s="false" lb="getDSSStoragePoolInfo" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426782110867" s="false" lb="getEnvironmentPowerInfo" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426782131869" s="false" lb="getPMachineNetworkInfo_machinemonitoring" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426782152871" s="false" lb="getPMachinePowerInfo_machinemonitoring" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426782173874" s="false" lb="getPMachineProcesses_machinemonitoring" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426782194885" s="false" lb="getPMachineStorageInfo_machinemonitoring" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426782215889" s="false" lb="get_monitoring_data_machinemonitoring" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426782236894" s="false" lb="get_monitoring_info_machinemonitoring" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426782257896" s="false" lb="get_overall_disksafety" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21010" lt="0" ts="1426782278907" s="false" lb="get_storagenode_info_machinemonitoring" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426782299919" s="false" lb="exists_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426782320921" s="false" lb="find_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426782341928" s="false" lb="getApplianceAgent" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426782362940" s="false" lb="getConfigurationString_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426782383943" s="false" lb="getCustomerGuid_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21011" lt="0" ts="1426782404950" s="false" lb="getDiskSequences_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426782425963" s="false" lb="getMachineAgent_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426782446965" s="false" lb="getManagementIpaddress_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426782467972" s="false" lb="getMaximumAllowedIPCount_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21008" lt="0" ts="1426782488976" s="false" lb="getMonitoringInfo_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426782509986" s="false" lb="getNetworkDetails_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21008" lt="0" ts="1426782530987" s="false" lb="getNextID" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426782551997" s="false" lb="getObject_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426782573005" s="false" lb="getParentMachine_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426782594004" s="false" lb="getPublicIpaddress_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20997" lt="0" ts="1426782615002" s="false" lb="getRole_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426782636000" s="false" lb="getYAML_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20995" lt="0" ts="1426782657005" s="false" lb="get_ports_in_use_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426782678003" s="false" lb="list_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426782699004" s="false" lb="listAccounts_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426782720012" s="false" lb="listApplications_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" lt="0" ts="1426782741015" s="false" lb="listBackups_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426782762024" s="false" lb="listDisks_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426782783026" s="false" lb="listIpaddresses_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21002" lt="0" ts="1426782804027" s="false" lb="listNics_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426782825031" s="false" lb="list_files_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426782846033" s="false" lb="list_partitions_machine" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426782867035" s="false" lb="find_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426782888038" s="false" lb="getObject_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21003" lt="0" ts="1426782909043" s="false" lb="get_connectionstring_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426782930048" s="false" lb="get_id_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21005" lt="0" ts="1426782951050" s="false" lb="get_lagging_nodes_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20992" lt="0" ts="1426782972057" s="false" lb="get_master_node_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21007" lt="0" ts="1426782993051" s="false" lb="get_storage_utilization_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426783014060" s="false" lb="ingest_possible_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21000" lt="0" ts="1426783035071" s="false" lb="list_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21001" lt="0" ts="1426783056073" s="false" lb="list_applications_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21006" lt="0" ts="1426783077076" s="false" lb="list_clients_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426783098084" s="false" lb="list_disks_metadatastore" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21009" lt="0" ts="1426783119084" s="false" lb="get_settings" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="21004" lt="0" ts="1426783140095" s="false" lb="find_os" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="20999" lt="0" ts="1426783161101" s="false" lb="getObject_os" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection timed out: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2285">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="17755" lt="0" ts="1426783182102" s="false" lb="getYAML_os" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Software caused connection abort: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2296">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199859" s="false" lb="list_os" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199862" s="false" lb="find_policy" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199864" s="false" lb="getObject_policy" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199868" s="false" lb="getYAML_policy" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199870" s="false" lb="list_policy" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199872" s="false" lb="find_policyrun" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199873" s="false" lb="getObject_policyrun" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199879" s="false" lb="getYAML_policyrun" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199881" s="false" lb="list_policyrun" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199882" s="false" lb="find_rack" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="0" lt="0" ts="1426783199884" s="false" lb="getNextID" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199885" s="false" lb="getObject_rack" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199887" s="false" lb="getYAML_rack" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="0" lt="0" ts="1426783199889" s="false" lb="list_rack" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199890" s="false" lb="listDevices_rack" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199892" s="false" lb="listMachines_rack" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199893" s="false" lb="find_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199895" s="false" lb="getObject_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="7" lt="0" ts="1426783199897" s="false" lb="getXML_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199907" s="false" lb="getXMLSchema_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199912" s="false" lb="getYAML_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="4" lt="0" ts="1426783199914" s="false" lb="list_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199919" s="false" lb="listBackplanes_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199920" s="false" lb="listCustomers_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="1" lt="0" ts="1426783199922" s="false" lb="listDevices_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+<httpSample t="0" lt="0" ts="1426783199924" s="false" lb="listMachines_resourcegroup" rc="Non HTTP response code: java.net.NoRouteToHostException" rm="Non HTTP response message: No route to host: connect" tn="Amplidata_Testing_CSV 1-1" dt="text" by="2287">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Test failed: code expected to contain /200/</failureMessage>
+  </assertionResult>
+</httpSample>
+
+</testResults>

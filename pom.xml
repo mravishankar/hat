@@ -17,6 +17,7 @@
 	<modules>
         <module>automation</module>
         <module>tests_packages</module>
+        <module>jmeter</module>
     </modules>
 	
 	<dependencies>
